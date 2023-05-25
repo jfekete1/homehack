@@ -7,7 +7,8 @@ cd tuya-convert
 
 put kettle to EZ mode
 //press and hold 45°C button for 5 seconds
+//now you can continue flashing
 
-
+//after flashing is finished, connect to your kettles via browser (192.168.1.126 ???)
 {"NAME":"ProfiCook PC-WKS 1167 G","GPIO":[0,2272,0,2304,0,0,0,0,0,0,0,0,0,0],"FLAG":0,"BASE":54}
 
